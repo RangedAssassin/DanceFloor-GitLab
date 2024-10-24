@@ -50,7 +50,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7fcd95e0aa9510743921b0506028a7df, type: 3}
       propertyPath: m_Name
-      value: Pumpkinhulk L Shaw@Rumba Dancing
+      value: prefabPumpkinHulk
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
